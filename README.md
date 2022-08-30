@@ -7,7 +7,7 @@ Each Notes item can optionally have more than one attachment.
 
 ### Getting Started
 1. Install dependencies: `npm install`
-2. Run development mode: `npm run start-dev`
+2. Run development mode: `npm run start-dev` and start localhost server at localhost:5000 on your browser
 3. Run for production mode: `npm run start-prod`
 
 ### Postman testing
