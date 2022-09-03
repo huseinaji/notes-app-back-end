@@ -1,5 +1,5 @@
 # notes-app-back-end
-A simple notes application using AWS S3 and Google EC2
+A simple notes CRUD application using AWS S3 and Google EC2
 
 ### Functionality
 This application will allow creating/fetching/updating/removing/ Notes items.  
